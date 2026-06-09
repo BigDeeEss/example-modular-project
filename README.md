@@ -1,4 +1,4 @@
-# ExampleModularproject
+# ExampleModularProject
 
 A small C++23 module-based sample project.
 
